@@ -32,7 +32,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-![logo](https://github.com/changrif/Yelp/blob/master/Yelp/yelp.gif)
+![logo](https://github.com/changrif/Yelp/blob/master/yelp.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
